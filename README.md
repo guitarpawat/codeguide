@@ -86,4 +86,5 @@ If your program using the same code for encrypt and decrypt using methods are be
 ## Useful References
 
 http://deviq.com/don-t-repeat-yourself, DevIQ's blog
+
 https://www.codeproject.com/Articles/768052/Golden-Rules-Of-Good-OOP by Giovanni Scerra
