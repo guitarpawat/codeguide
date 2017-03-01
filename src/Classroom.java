@@ -1,5 +1,5 @@
 
-// TODO : Read the code without reading other "//" COMMENT and see if you can understand what it does or not
+// TODO : Read the code without reading other "//" COMMENT and see if you can understand what it does or not.
 // TODO : Fix this poorly understand code by doing TODO COMMENT below the code.
 
 import java.util.ArrayList;
@@ -88,5 +88,5 @@ public class Classroom {
  *      break;
  *  ...
  */
-// The addStudent() method accept the same name of the students, use ArrayList's contains() method to check that there's non exist in the class before you add to the class (HINT : See the java api doc if you get stuck).
+// TODO : The addStudent() method accept the same name of the students, use ArrayList's contains() method to check that there's non exist in the class before you add to the class (HINT : See the java api doc if you get stuck).
 // TODO : Remove TODO COMMENT after you finished that.
