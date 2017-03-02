@@ -83,6 +83,10 @@ String decrypt(String in) {...}
 ```
 If your program using the same code for encrypt and decrypt using methods are better than copy and paste same code around the program and it make easier to change the codes only one time, not around the program.
 
+## Exercise
+
+I have one useful exercise I made it here : https://github.com/guitarpawat/codeguide/blob/master/src/Classroom.java
+
 ## Useful References
 
 http://deviq.com/don-t-repeat-yourself, DevIQ's blog
